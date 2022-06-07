@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2741B8D5-7E5E-4615-A7F9-25ACD41A8400}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpRestAPI/Startup.cs">
+    <Files>
+      <File FileName="CSharpRestAPI/Startup.cs" Line="50" Column="16" />
+      <File FileName="CSharpRestAPI/DBContext/TestDBContext.cs" Line="1" Column="1" />
+      <File FileName="CSharpRestAPI/Controllers/UserController.cs" Line="87" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpRestAPI" expanded="True">
+            <Node name="CSharpRestAPI" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DBContext" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpRestAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
